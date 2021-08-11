@@ -1,0 +1,189 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.1052; Version 2004; 64bit' Language: 'en' Physical Memory: 16238 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Unity projects/My-AI-Playground/My AI Playground
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51298
+Successfully changed project path to: D:/Unity projects/My-AI-Playground/My AI Playground
+D:/Unity projects/My-AI-Playground/My AI Playground
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 26.95 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity projects/My-AI-Playground/My AI Playground/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     4021 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56328
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002908 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 27.20 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.747 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003472 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.162 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1446 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.9 MB.
+System memory in use after: 67.9 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1879.
+Total: 2.052800 ms (FindLiveObjects: 0.175100 ms CreateObjectMapping: 0.045100 ms MarkObjects: 1.710100 ms  DeleteObjects: 0.121500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/_Projects/_Flock AI
+  artifactKey: Guid(02c62b5d973ebff4aa0b9790ed345b9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Projects/_Flock AI using Guid(02c62b5d973ebff4aa0b9790ed345b9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c270ebaf4c529564859e7014fca5dfc') in 0.009217 seconds
+  Import took 0.011338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/_Projects/_Flock AI/Flock.unity
+  artifactKey: Guid(6995bd0ee4655ed4c96548e03a57c02e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Projects/_Flock AI/Flock.unity using Guid(6995bd0ee4655ed4c96548e03a57c02e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db2b2537fc5a6368f7cda90e71f93544') in 0.017162 seconds
+  Import took 0.020212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.583059 seconds.
+  path: Assets/_Projects/_AStar/AStar.unity
+  artifactKey: Guid(99cd3303b4f0bf441a5bab316dbb4d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Projects/_AStar/AStar.unity using Guid(99cd3303b4f0bf441a5bab316dbb4d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d715df53dbf73822212b8a831bddcef') in 0.009114 seconds
+  Import took 0.012044 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003117 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.998 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1428 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.6 MB.
+System memory in use after: 66.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1882.
+Total: 2.425300 ms (FindLiveObjects: 0.163500 ms CreateObjectMapping: 0.041200 ms MarkObjects: 2.120300 ms  DeleteObjects: 0.099400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.611905 seconds.
+  path: Assets/_Projects/_FInite State Machine/FSM.unity
+  artifactKey: Guid(f0389ade00025f645b105143b78ba5ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Projects/_FInite State Machine/FSM.unity using Guid(f0389ade00025f645b105143b78ba5ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e46e09eb273cb453ee8b033b409ead14') in 0.022773 seconds
+  Import took 0.025941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.428613 seconds.
+  path: Assets/_Projects/_Path & Avoiding/Scenes
+  artifactKey: Guid(c508043c863bdf44e8e94265827311b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Projects/_Path & Avoiding/Scenes using Guid(c508043c863bdf44e8e94265827311b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcbaa9b1b76dc7ee330ba4b23bc08259') in 0.008236 seconds
+  Import took 0.012284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.531636 seconds.
+  path: Assets/_Projects/_Path & Avoiding/Scenes/Avoiding.unity
+  artifactKey: Guid(fb52077ce007db5429f3de5f5c530764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Projects/_Path & Avoiding/Scenes/Avoiding.unity using Guid(fb52077ce007db5429f3de5f5c530764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4970377610c8998797a975a1ac520469') in 0.008288 seconds
+  Import took 0.011302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.345261 seconds.
+  path: Assets/_Projects/_RandomizeFSM/RandomizeFSM.unity
+  artifactKey: Guid(b5f19e30fd80375458e52a85dc571d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Projects/_RandomizeFSM/RandomizeFSM.unity using Guid(b5f19e30fd80375458e52a85dc571d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34d16f63d6ad9f020a5a299e286c74bf') in 0.011066 seconds
+  Import took 0.014432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.711595 seconds.
+  path: Assets/_Projects/_SensorsAI/SensorsAI.unity
+  artifactKey: Guid(9ef0c2d8fbe20ee44be2e142670b435a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Projects/_SensorsAI/SensorsAI.unity using Guid(9ef0c2d8fbe20ee44be2e142670b435a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '596c0b3c01826f230ccec94656efd0c4') in 0.006814 seconds
+  Import took 0.009525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.856838 seconds.
+  path: Assets/_Projects/_Traffic System/TrafficSystem.unity
+  artifactKey: Guid(d87ac92d0ee5f7b4290602f630620a80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Projects/_Traffic System/TrafficSystem.unity using Guid(d87ac92d0ee5f7b4290602f630620a80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f360178a2e3cf95abf23e876025f9561') in 0.007473 seconds
+  Import took 0.010040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.074461 seconds.
+  path: Assets/_Projects/_Flock AI/Flock.unity
+  artifactKey: Guid(6995bd0ee4655ed4c96548e03a57c02e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Projects/_Flock AI/Flock.unity using Guid(6995bd0ee4655ed4c96548e03a57c02e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5e6eb53c524f8e5920ce5bd3ce386cd') in 0.002956 seconds
+  Import took 0.005570 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003498 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.979 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1428 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.6 MB.
+System memory in use after: 66.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1885.
+Total: 2.033500 ms (FindLiveObjects: 0.138400 ms CreateObjectMapping: 0.039900 ms MarkObjects: 1.801300 ms  DeleteObjects: 0.053000 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

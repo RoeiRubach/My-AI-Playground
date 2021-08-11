@@ -1155,7 +1155,7 @@ MonoBehaviour:
   NextWaypoint: {fileID: 341170244}
   Branches:
   - {fileID: 256829697}
-  BranchRatio: 0.25
+  BranchRatio: 0.35
   WidthLength: 1
 --- !u!1 &1108575108
 GameObject:
