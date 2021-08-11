@@ -47,4 +47,4 @@ This project was created with:
 ![Avoiding behavior - GIF](https://user-images.githubusercontent.com/44708223/129005243-fdd2a22f-5cc3-4a7f-92d3-68b7fd9abb74.gif)
 
 ### Randomize FSM
-![Randomize FSM - GIF](https://user-images.githubusercontent.com/44708223/129005254-3abafa99-7af9-4dfc-8c0f-2a6e6c7a40e4.gif)
+![Randomize FSM - GIF](https://user-images.githubusercontent.com/44708223/129006906-7e3083cd-4c3d-4474-9f5c-b8eff05b5ff7.gif)
